@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index,image_index,x,y,1,1,0,color,1); //allows the sprite to be drawn with a different color based on the variable
