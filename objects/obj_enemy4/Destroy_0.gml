@@ -1,0 +1,1 @@
+global.coins += 25; //gives player coins
