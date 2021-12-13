@@ -1,4 +1,5 @@
 //creates enemy, adds to spawn count, resets alarm based on spawn rate(1 second)
+
 if (global.lives > 0){
 	if(spawn_count1 < spawn_amount1){
 		instance_create_depth(x,y,-1,obj_enemy1);

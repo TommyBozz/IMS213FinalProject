@@ -1,0 +1,1 @@
+global.lives = 100; //player lives. enemies that reach the end decrease lives

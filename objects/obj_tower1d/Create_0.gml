@@ -1,2 +1,2 @@
-cost = 50;
+cost = 70;
 color = c_white;
